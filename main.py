@@ -2,7 +2,7 @@ import logging
 from telegram import Update, InputFile
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "7641349601:AAFZ2ZabpcEBTFVNcd4Dz3Wtu76q6Lbzrj4"
 
 # Simple memory storage of user limits (for MVP)
 user_limits = {}
